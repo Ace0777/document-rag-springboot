@@ -32,6 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
+### Notas de estudo pessoais ###
+RAG-GUIDE.md
+
 ### macOS ###
 .DS_Store
 
